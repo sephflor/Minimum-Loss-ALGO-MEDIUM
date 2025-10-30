@@ -1,1 +1,1 @@
-# Minimum-Loss-ALGO-MEDIUM
+# Minimum-Loss-ALGO-MEDIUM.The function sorts the prices while keeping track of their original indices and then checks consecutive prices to find the smallest valid loss, ensuring the higher price occurs before the lower price in the original list.
